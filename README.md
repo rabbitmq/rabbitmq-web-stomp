@@ -2,6 +2,11 @@
 
 This plugin provides support for STOMP-over-WebSockets to RabbitMQ.
 
+## This was migrated to https://github.com/rabbitmq/rabbitmq-server
+
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_web_stomp](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_web_stomp).
+All issues have been transferred.
+
 ## Installation
 
 This plugin ships with modern versions of RabbitMQ.
